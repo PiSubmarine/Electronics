@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=BatteryCharger.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=BatteryMonitor.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=Chipset.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=Driver.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=IBOARD.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=RaspberryPi.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=Regulator5V.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=BatteryCharger.SchDoc|FileName=Regulator12V.SchDoc|SheetNumber=6

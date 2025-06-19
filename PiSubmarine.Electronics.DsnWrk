@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PiSubmarine.Electronics.PrjMbd
+[Project2]
+ProjectPath=PiSubmarine.Electronics.MainBoard\PiSubmarine.Electronics.MainBoard.PrjPcb
+[Project3]
+ProjectPath=CAD_models_STM32U031C8T6\STM32U031C8T6.LibPkg
