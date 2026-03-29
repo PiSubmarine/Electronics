@@ -6,3 +6,5 @@ ProjectPath=PiSubmarine.Electronics.PrjMbd
 ProjectPath=PiSubmarine.Electronics.MainBoard\PiSubmarine.Electronics.MainBoard.PrjPcb
 [Project3]
 ProjectPath=CAD_models_STM32U031C8T6\STM32U031C8T6.LibPkg
+[Project4]
+ProjectPath=PiSubmarine.Electronics.BallastSafetySwitch\PiSubmarine.Electronics.BallastSafetySwitch.PrjPcb
